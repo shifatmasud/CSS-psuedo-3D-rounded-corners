@@ -1,0 +1,6 @@
+{
+  "name": "3D CSS Card",
+  "description": "A fully responsive 3D interactive UI card using CSS 3D transforms, flat plane geometry approximation, and Framer Motion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
